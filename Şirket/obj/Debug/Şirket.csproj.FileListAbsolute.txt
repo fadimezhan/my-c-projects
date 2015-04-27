@@ -1,0 +1,6 @@
+c:\users\fadime\documents\visual studio 2013\Projects\Şirket\Şirket\bin\Debug\Şirket.exe.config
+c:\users\fadime\documents\visual studio 2013\Projects\Şirket\Şirket\bin\Debug\Şirket.exe
+c:\users\fadime\documents\visual studio 2013\Projects\Şirket\Şirket\bin\Debug\Şirket.pdb
+c:\users\fadime\documents\visual studio 2013\Projects\Şirket\Şirket\obj\Debug\Şirket.csprojResolveAssemblyReference.cache
+c:\users\fadime\documents\visual studio 2013\Projects\Şirket\Şirket\obj\Debug\Şirket.exe
+c:\users\fadime\documents\visual studio 2013\Projects\Şirket\Şirket\obj\Debug\Şirket.pdb
