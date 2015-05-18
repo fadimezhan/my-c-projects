@@ -1,0 +1,9 @@
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\bin\Debug\pizza1.exe.config
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\bin\Debug\pizza1.exe
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\bin\Debug\pizza1.pdb
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\obj\Debug\pizza1.csprojResolveAssemblyReference.cache
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\obj\Debug\pizza1.Form1.resources
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\obj\Debug\pizza1.Properties.Resources.resources
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\obj\Debug\pizza1.csproj.GenerateResource.Cache
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\obj\Debug\pizza1.exe
+c:\users\fadime\documents\visual studio 2013\Projects\pizza1\pizza1\obj\Debug\pizza1.pdb
