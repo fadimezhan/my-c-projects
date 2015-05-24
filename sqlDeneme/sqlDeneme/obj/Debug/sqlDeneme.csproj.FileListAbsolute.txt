@@ -1,0 +1,8 @@
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\bin\Debug\sqlDeneme.exe.config
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\bin\Debug\sqlDeneme.exe
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\bin\Debug\sqlDeneme.pdb
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\obj\Debug\sqlDeneme.Form1.resources
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\obj\Debug\sqlDeneme.Properties.Resources.resources
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\obj\Debug\sqlDeneme.csproj.GenerateResource.Cache
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\obj\Debug\sqlDeneme.exe
+c:\users\fadime\documents\visual studio 2013\Projects\sqlDeneme\sqlDeneme\obj\Debug\sqlDeneme.pdb
